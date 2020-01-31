@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/227036578.svg)](https://zenodo.org/badge/latestdoi/227036578)
+
+
 Custom scripts, annotations, and workflows for publication: _"New genome assemblies reveal patterns of domestication and adaptation across Brettanomyces (Dekkera) species."_
 
 ## Contents
